@@ -47,5 +47,5 @@ For collaboration, inquiries, or more information about our projects, feel free 
 Thank you for visiting our GitHub organization!
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="assets/NINE-logo.jpg"/>
+  <img height="50" alt="logo" src="../assets/NINE-logo.jpg"/>
 </a>
