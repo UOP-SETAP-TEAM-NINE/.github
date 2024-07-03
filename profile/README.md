@@ -4,11 +4,11 @@
 
 Welcome to the official GitHub organization for **SETAP TEAM NINE**, a committed group of students from the University of Portsmouth participating in the Software Engineering Theory and Practice (SETAP) course. Our collective mission is to apply our academic knowledge to real-world software engineering challenges and create innovative solutions through collaboration and cutting-edge technologies.
 
-## Our Mission
+## 🚀 Our Mission
 
 Our mission is to create a comprehensive, user-friendly application that not only meets user needs but also serves as a testament to our collective skills in software design, implementation, and teamwork. We aim to produce a solution that is scalable, maintainable, and aligned with industry standards.
 
-## Key Technologies
+## 🛜 Key Technologies
 
 We employ a diverse set of technologies to ensure our project is built on a solid foundation. Our primary tools and technologies include:
 
@@ -24,11 +24,11 @@ A powerful, open-source relational database management system, providing us with
 **Version Control:** Git
 Our choice for version control, facilitating seamless collaboration and continuous integration among team members.
 
-## Projects
+## 📚 Projects
 
 We are currently focused on our flagship project and we will update this space soon.
 
-## Our Approach
+## 🎯 Our Approach
 
 Our approach to software development is guided by agile methodologies, allowing us to adapt to changes quickly and deliver incremental improvements. We emphasize:
 
@@ -38,7 +38,7 @@ Our approach to software development is guided by agile methodologies, allowing 
 
 **Quality:** Implementing best practices in coding, testing, and documentation to deliver a high-quality product.
 
-## Contact Us
+## 🌎 Contact Us
 
 For collaboration, inquiries, or more information about our projects, feel free to reach out to us:
 
