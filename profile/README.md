@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋🏼&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!👋🏼&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 
 Welcome to the official GitHub organization for **SETAP TEAM NINE**, a committed group of students from the University of Portsmouth participating in the Software Engineering Theory and Practice (SETAP) course. Our collective mission is to apply our academic knowledge to real-world software engineering challenges and create innovative solutions through collaboration and cutting-edge technologies.
